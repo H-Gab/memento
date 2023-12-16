@@ -1,17 +1,8 @@
-# Nom du Projet
+# Memento
 
-## Idées de Noms (merci GPT)
+## Idées de Noms
 
-1. ListenToTheWorld
-2. MarktheWorld
-3. PinWorld
-4. PinMap
-5. WorldMosaic
-6. TerraPicArchive
-7. GeoTreasures
-8. MapMemoria
-9. WorldSouvenir
-10. WorldHub
+On part sur Memento alors 
 
 ## Idées de Fonctionnalités
 
